@@ -3,11 +3,11 @@
 title: Tianyu Qiu 邱天宇
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: ''
+last_name: ''
 
 # Status emoji
 status:
@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tianyu Qiu is currently a Ph.D. student in Aerospace Engineering in the University of Texas at Austin. He is also a research assitant in the Control and Learning for Autonomous Robotics (CLeAR Lab), advised by Prof. David Fridovich-Keil. His research interests include reinforcement learning, human robot interaction, game theory and SLAM.
 {style="text-align: justify;"}
