@@ -38,15 +38,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Aerospace Engineering
+      institution: The University of Texas at Austin
+      year: 2028
+    - course: MEng in Electronic Information
+      institution: Shanghai Jiao Tong University
+      year: 2023
+    - course: BEng in Electrical & Computer Engineering
+      institution: Shanghai Jiao Tong University
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
