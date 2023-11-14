@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Tianyu Qiu 邱天宇
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
@@ -17,15 +17,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Control and Learning for Autonomous Robotics Lab
+    url: https://clearoboticslab.github.io/
+  - name: The University of Texas at Austin
+    url: https://www.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reinforcement learning, human robot interaction, game theory and SLAM.
 
 # Interests to show in About widget
 interests:
