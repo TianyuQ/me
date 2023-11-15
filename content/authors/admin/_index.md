@@ -28,7 +28,7 @@ organizations:
     url: https://www.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, human robot interaction, game theory and SLAM.
+bio: My research interests include reinforcement learning, game theory, human robot interaction and SLAM.
 
 # Education to show in About widget
 education:
@@ -46,8 +46,8 @@ education:
 # Interests to show in About widget
 interests:
   - Reinforcement Learning
-  - Human Robot Interaction
   - Game Theory
+  - Human Robot Interaction
   - SLAM
 
 # Skills
@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Tianyu Qiu is currently a Ph.D. student in Aerospace Engineering in the University of Texas at Austin. He is also a research assitant in the Control and Learning for Autonomous Robotics (CLeAR Lab), advised by Prof. David Fridovich-Keil. His research interests include reinforcement learning, human robot interaction, game theory and SLAM.
+Tianyu Qiu is currently a Ph.D. student in Aerospace Engineering in the University of Texas at Austin. He is also a research assitant in the Control and Learning for Autonomous Robotics (CLeAR Lab), advised by Prof. David Fridovich-Keil. Prior to UT Austin, Tianyu received his Master of Engineering and Bachelor of Engineering from Shanghai Jiao Tong University in 2023 and 2020, respectively. Tianyu's research interests include reinforcement learning, game theory, human robot interaction and SLAM.
 {style="text-align: justify;"}
