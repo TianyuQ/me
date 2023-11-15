@@ -45,7 +45,9 @@ education:
 
 # Interests to show in About widget
 interests:
-  - Reinforcement Learning
+  - name: Reinforcement Learning
+    icon: python
+    icon_pack: fab
   - Game Theory
   - Human Robot Interaction
   - SLAM
