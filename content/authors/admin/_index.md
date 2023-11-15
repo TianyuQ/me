@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tianyu Qiu  邱天宇
+title: Tianyu Qiu
 # title: 
 
 # Name pronunciation (optional)
