@@ -233,15 +233,15 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # subtitle:
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: tianyuqiu@utexas.edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Oden Institute for Computational Engineering and Sciences 201 E 24th St
+        street: POB 5.200, 201 E 24th St
         city: Austin
         region: TX
         postcode: '78712'
