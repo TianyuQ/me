@@ -1,10 +1,10 @@
 ---
 # Display name
 title: Tianyu Qiu 
-title: 邱天宇
+# title: 
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: '邱天宇'
 
 # Full name (for SEO)
 first_name: ''
