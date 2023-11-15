@@ -1,15 +1,14 @@
 ---
 # Display name
-title: Tianyu Qiu \
-        邱天宇
+title: Tianyu Qiu  邱天宇
 # title: 
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: ''
-last_name: ''
+first_name: 'Tianyu'
+last_name: 'Qiu'
 
 # Status emoji
 status:
