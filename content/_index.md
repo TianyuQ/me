@@ -238,23 +238,23 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: tianyuqiu@utexas.edu
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      # phone: 888 888 88 88
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
+        street: Oden Institute for Computational Engineering and Sciences 201 E 24th St
         city: Austin
         region: TX
-        postcode: '94305'
+        postcode: '78712'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '30.2871',
+        longitude: '-97.7365'  
       contact_links:
         # - icon: twitter
         #   icon_pack: fab
