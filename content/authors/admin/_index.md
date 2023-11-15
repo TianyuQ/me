@@ -44,7 +44,7 @@ education:
       year: 2020
 
 # Interests to show in About widget
-research interests:
+interests:
   - Reinforcement Learning
   - Game Theory
   - Human Robot Interaction
