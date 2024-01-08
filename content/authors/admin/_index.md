@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Student @ UT Austin
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -97,7 +97,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'tianyuqiu@utexas.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
