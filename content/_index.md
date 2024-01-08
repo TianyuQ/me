@@ -215,6 +215,7 @@ sections:
     design:
       columns: '2'
       view: citation
+  ### Events
   - block: collection
     id: talks
     content:
