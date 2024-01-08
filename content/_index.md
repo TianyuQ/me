@@ -217,12 +217,12 @@ sections:
       view: citation
   ### Events
   - block: collection
-    id: talks
+    id: teaching
     content:
-      title: Recent & Upcoming Talks
+      title: Teachings
       filters:
         folders:
-          - event
+          - teaching
     design:
       columns: '2'
       view: compact
