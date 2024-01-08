@@ -9,9 +9,9 @@ authors:
   - David Fridovich-Keil
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -36,7 +36,7 @@ abstract: In this paper, a traditional one v.s. one pursuit and evasion scenario
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
