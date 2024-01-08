@@ -28,7 +28,8 @@ organizations:
     url: https://www.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, game theory, human robot interaction and SLAM.
+# bio: My research interests include reinforcement learning, game theory, human robot interaction and SLAM.
+bio: ''
 
 # Education to show in About widget
 education:
