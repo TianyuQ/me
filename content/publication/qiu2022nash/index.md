@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/Nash Pursuit Strategy for Nonzero-Sum MPC Game via Inverse Optimal Control.pdf'
+url_pdf: './Nash Pursuit Strategy for Nonzero-Sum MPC Game via Inverse Optimal Control.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
