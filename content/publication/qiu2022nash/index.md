@@ -18,7 +18,7 @@ date: '2022-07-20 '
 doi: 'https://doi.org/10.23919/ASCC56756.2022.9828010'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-08'
+publishDate: '2022-07-20'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Nash Pursuit Strategy for Nonzero-Sum MPC Game via Inverse Optimal Control.pdf'
+url_pdf: '/Nash Pursuit Strategy for Nonzero-Sum MPC Game via Inverse Optimal Control.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
