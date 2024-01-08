@@ -1,6 +1,6 @@
 ---
 title: ICRA 2024 Submission
-date: '2023-09-04'
+date: '2023-09-14'
 summary: We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations" to ICRA 2024.
 ---
 
