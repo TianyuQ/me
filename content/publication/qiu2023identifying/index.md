@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2303.09744'
+url_pdf: 'https://arxiv.org/pdf/2303.09744.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
