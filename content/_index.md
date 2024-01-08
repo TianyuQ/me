@@ -200,6 +200,7 @@ sections:
     design:
       columns: '2'
       view: card
+  ### Publications
   - block: collection
     content:
       title: Recent Publications
