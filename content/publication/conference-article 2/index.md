@@ -6,8 +6,7 @@ title: 'Nash Pursuit Strategy for Nonzero-Sum MPC Game via Inverse Optimal Contr
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Han Zhang
-  - Jingchuan Wang
+  - Test
 
 # Author notes (optional)
 # author_notes:
