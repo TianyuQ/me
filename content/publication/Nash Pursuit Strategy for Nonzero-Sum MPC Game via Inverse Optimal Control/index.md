@@ -6,18 +6,19 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - David Fridovich-Keil
+  - Han Zhang
+  - Jingchuan Wang
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-07-20 '
+doi: 'https://doi.org/10.23919/ASCC56756.2022.9828010'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-07-20'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,8 +26,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In 2022 13th Asian Control Conference
+publication_short: In *ASCC 2022*
 
 abstract: In this paper, a traditional one v.s. one pursuit and evasion scenario is considered. The evader aims to reach her target and avoid being captured by the pursuer, while the pursuer, without the knowledge of the evader’s cost function, intends to capture the evader before she successfully escapes. We formulate this problem as a Model Predictive Control Decoupled Pursuit and Evasion Game (MPC-DPEG) model with incomplete information. We apply Inverse Optimal Control (IOC) technique to estimate the evader’s cost function and give a Nash pursuit strategy for MPC-DPEG as the optimal strategy for the pursuer. Numerical examples reveal the improvement of pursuit performance of the Nash pursuit strategy based on the estimated cost function over naive pursuit strategies.
 
