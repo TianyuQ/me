@@ -69,24 +69,39 @@ Here is the collection of slides used in my recitation classes. During my Underg
 **2019 Summer**:
 
 [RC Week1](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week1%20(Natural%20Numbers).pdf)
+
 [RC Week2](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week2%20(Logics%2BSets).pdf)
+
 [RC Week3](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week3%20(Relations%2BOrders%2BLattices%2BFunctions).pdf)
+
 [RC Week4](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week4%20(Functions).pdf)
+
 [RC Week5](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week5%20(Functions).pdf)
+
 [RC Week6](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week6%20(Functions%2BCounting).pdf)
+
 [RC Week7](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week7%20(Groups).pdf)
+
 [RC Week8](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week8%20(Groups).pdf)
+
 [RC Week9](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week9%20(Congruency).pdf)
+
 [Mid-term 1](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/mid-term%20review(Functions).pdf)
+
 [Mid-term 2](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/mid-term%20review(Groups%2BCongruency).pdf)
 
 **2020 Summer**:
 
 [RC1](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC1.pdf)
+
 [RC2](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC2.pdf)
+
 [RC3](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC3.pdf)
+
 [RC4](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC4.pdf)
+
 [RC5](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC5.pdf)
+
 [RC6](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC6.pdf)
 
 <!-- Slides can be added in a few ways:
