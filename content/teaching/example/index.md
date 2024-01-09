@@ -1,5 +1,5 @@
 ---
-title: Discrete Maths (2019 Summer, 2020 Summer)
+title: Teaching Assistant for Discrete Maths
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
