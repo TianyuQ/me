@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Teaching Assistant for Discrete Maths
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Here is the collection of slides used in my recitation classes. During my Undergraduate in UM-SJTU Joint Institute, I worked as a teaching assistant for the course Discrete Maths lectured by Prof. Zach Mckenzie in the 2019 Summer Semester and Prof. Heidi Anderson in the 2020 Summer Semester, respectively. I was nominated as an outstanding teaching assistant then. I really cherish the teaching time.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
