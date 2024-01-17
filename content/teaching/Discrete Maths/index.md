@@ -1,5 +1,5 @@
 ---
-title: Teaching Assistant for Discrete Maths
+title: **Discrete Maths** *Teaching Assistant*
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -66,7 +66,7 @@ Click on the **Slides** button above to view the built-in slides feature.
 
 Here is the collection of slides used in my recitation classes. During my Undergraduate in UM-SJTU Joint Institute, I worked as a teaching assistant for the course Discrete Maths lectured by Prof. Zach Mckenzie in the 2019 Summer Semester and Prof. Heidi Anderson in the 2020 Summer Semester, respectively. I was nominated as an outstanding teaching assistant then. I really cherish the teaching time.
 
-**2019 Summer**:
+- **2019 Summer**:
 
 [RC Week1](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/RC_Week1%20(Natural%20Numbers).pdf)
 
@@ -90,7 +90,7 @@ Here is the collection of slides used in my recitation classes. During my Underg
 
 [Mid-term 2](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2019Summer_Recitation%20Classes/mid-term%20review(Groups%2BCongruency).pdf)
 
-**2020 Summer**:
+- **2020 Summer**:
 
 [RC1](https://github.com/TianyuQ/Discrete-Maths-Resources-UMJI-SJTU/blob/main/2020Summer_Recitation%20Classes/RC1.pdf)
 
