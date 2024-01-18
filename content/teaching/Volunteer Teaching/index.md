@@ -1,5 +1,5 @@
 ---
-title: Intro to Engineering
+title: Volunteer Teaching
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -7,22 +7,22 @@ event_url: https://example.org
 location: 
 address:
   street: 
-  city: Shanghai
-  region: Shanghai
-  postcode: '200240'
+  city: 
+  region: Yunnan Province
+  postcode: ''
   country: China
 
-summary: Teaching Assistant for 2018 Fall and 2019 Fall
+summary: Volunteer Geography Teacher for Sanhe Junior High School
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-08-15'
+date: '2019-02-15'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-08-15'
+publishDate: '2019-02-15'
 
 authors: []
 tags: []

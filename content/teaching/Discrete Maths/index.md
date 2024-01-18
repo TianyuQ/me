@@ -8,8 +8,8 @@ location:
 address:
   street: 
   city: Shanghai
-  region: 
-  postcode: '94305'
+  region: Shanghai
+  postcode: '200240'
   country: China
 
 summary: Teaching Assistant for 2019 Summer and 2020 Summer
