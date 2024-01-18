@@ -12,17 +12,17 @@ address:
   postcode: ''
   country: China
 
-summary: Volunteer Geography Teacher for Sanhe Junior High School
+summary: Volunteer Geography Teacher for Sanhe Junior High School in 2018 Winter
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-02-15'
+date: ''
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2019-02-15'
+publishDate: ''
 
 authors: []
 tags: []
