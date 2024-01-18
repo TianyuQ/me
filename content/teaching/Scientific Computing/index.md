@@ -1,5 +1,5 @@
 ---
-title: 7th Grade Geography
+title: Scientific Computing
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -7,12 +7,12 @@ event_url: https://example.org
 location: 
 address:
   street: 
-  city: 
-  region: Yunnan Province
-  postcode: ''
-  country: China
+  city: Austin
+  region: TX
+  postcode: '200240'
+  country: United States
 
-summary: Volunteer Geography Teacher for Sanhe Junior High School in 2018 Winter
+summary: Teaching Assistant for 2023 Fall
 abstract: ''
 
 # Talk start and end times.
