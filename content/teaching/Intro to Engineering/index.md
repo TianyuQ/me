@@ -1,5 +1,5 @@
 ---
-title: Teaching Assistant for Intro to Engineering
+title: Intro to Engineering
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: China
 
-summary: Teaching Assistant for Discrete Maths
+summary: Teaching Assistant for 2018 Fall and 2019 Fall
 abstract: 'Here is the collection of slides used in my recitation classes. During my Undergraduate in UM-SJTU Joint Institute, I worked as a teaching assistant for the course Discrete Maths lectured by Prof. Zach Mckenzie in the 2019 Summer Semester and Prof. Heidi Anderson in the 2020 Summer Semester, respectively. I was nominated as an outstanding teaching assistant then. I really cherish the teaching time.'
 
 # Talk start and end times.
