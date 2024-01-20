@@ -4,9 +4,9 @@ title: Discrete Math Teaching Assistant
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 
-location: 
-address:
-  street: 
+location: Shanghai Jiao Tong University
+address: 
+  street: 800 Dongchuan Rd
   city: Shanghai
   region: Shanghai
   postcode: '200240'

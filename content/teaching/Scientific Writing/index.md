@@ -4,9 +4,9 @@ title: Scientific Writing (Graduate-level)
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 
-location: 
+location: Shanghai Jiao Tong University
 address:
-  street: 
+  street: 800 Dongchuan Rd
   city: Shanghai
   region: Shanghai
   postcode: '200240'

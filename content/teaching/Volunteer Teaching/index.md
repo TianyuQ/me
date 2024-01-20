@@ -4,7 +4,7 @@ title: 7th Grade Geography
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 
-location: 
+location: Sanhe Junior High School
 address:
   street:
   city: Jiucheng Town, Luxi County
