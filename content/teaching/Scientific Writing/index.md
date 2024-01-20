@@ -64,7 +64,7 @@ tags: []
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-I worked as a teaching assistant for VG100 Intro to Engineering lectured by Prof. Han Zhang in 2021 Fall at Shanghai Jiao Tong University.
+I worked as a teaching assistant for Scientific Writing lectured by Prof. Han Zhang in 2021 Fall at Shanghai Jiao Tong University.
 
 <!-- Slides can be added in a few ways:
 
