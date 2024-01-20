@@ -64,7 +64,7 @@ tags: []
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-
+I worked as the teaching assistant of Science and Technology Innovation lectured by Prof. Jingchuan Wang in 2021 Spring at Shanghai Jiao Tong University.
 
 <!-- Slides can be added in a few ways:
 

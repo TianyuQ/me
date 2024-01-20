@@ -64,7 +64,7 @@ featured: true
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-
+I worked as a teaching assistant for VG100 Intro to Engineering lectured by Prof. Shane Johnson and Prof. Irene Wei in 2018 Fall and 2019 Fall at Shanghai Jiao Tong University.
 
 <!-- Slides can be added in a few ways:
 

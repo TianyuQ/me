@@ -64,7 +64,7 @@ tags: []
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-I worked as the teaching assistant of COE322 Scientific Computing in 2023 Fall at UT Austin. Check [Course Contents](https://github.com/TACC/coe322fall2023) for more details.
+I worked as the teaching assistant of COE322 Scientific Computing lectured by Prof. Victor Eijkhout and Prof. Susan Lindsey in 2023 Fall at UT Austin. Check [Course Contents](https://github.com/TACC/coe322fall2023) for more details.
 
 <!-- Slides can be added in a few ways:
 

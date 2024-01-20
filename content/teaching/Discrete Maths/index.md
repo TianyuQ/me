@@ -64,7 +64,7 @@ featured: true
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-Here is the collection of slides used in my recitation classes. During my Undergraduate in UM-SJTU Joint Institute, I worked as a teaching assistant for the course Discrete Maths lectured by Prof. Zach Mckenzie in the 2019 Summer Semester and Prof. Heidi Anderson in the 2020 Summer Semester, respectively. I was nominated as an outstanding teaching assistant then. I really cherish the teaching time.
+I worked as a teaching assistant for VE203 Discrete Maths lectured by Prof. Zach Mckenzie in 2019 Summer and Prof. Heidi Anderson in 2020 Summer at Shanghai Jiao Tong University, respectively. I was nominated as an outstanding teaching assistant for the course. Check the following links for recitation notes for the course.
 
 - **2019 Summer**:
 
