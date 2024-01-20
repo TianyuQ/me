@@ -6,8 +6,8 @@ event_url: https://example.org
 
 location: 
 address:
-  street: 
-  city: 
+  street:
+  city: Jiucheng Town, Luxi County
   region: Yunnan Province
   postcode: ''
   country: China
@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018'
+date: '2019-01-15'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2019-01-15'
 
 authors: []
 tags: []
@@ -64,6 +64,7 @@ tags: []
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
+In 2018 Winter, I taught 7th Grade Geography in Sanhe Junior High School (Yunnan Province, China) as a member of UMJI Volunteer Teaching team. We taught Maths, Chinese, Geography, English, Music courses for 7th and 8th grade students. Besides teaching, our team actively organized and participated in the Sports Meeting, the School's Soccer Match and the New Year's Gala. We made good friends with the students there.
 
 
 <!-- Slides can be added in a few ways:
