@@ -17,12 +17,12 @@ abstract: 'Here is the collection of slides used in my recitation classes. Durin
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019'
+date: '2020-08-15'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-01-01'
+publishDate: '2020-08-15'
 
 authors: []
 tags: []
