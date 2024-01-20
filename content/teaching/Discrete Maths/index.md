@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: **Discrete Maths** *Teaching Assistant*
-=======
-title: Discrete Maths
->>>>>>> e052872ca61addbed7384c35b4080bb99613bcaa
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
