@@ -64,7 +64,7 @@ tags: []
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-In 2018 Winter, I went to Sanhe Junior High School (Yunnan Province, China) as a member of UMJI Volunteer Teaching team. We taught Maths, Chinese, Geography, English, Music courses for 7th and 8th grade students. Besides teaching, our team actively organized and participated in the Sports Meeting, the School's Soccer Match and the New Year's Gala. We made good friends with the students there.
+In 2018 Winter, I went to Sanhe Junior High School (Yunnan Province, China) as a member of UMJI Volunteer Teaching team. We taught Maths, Chinese, Geography, English, Music courses for 7th and 8th grade students. Besides teaching, our team actively organized and participated in the Sports Meeting, the School's Soccer Match and the New Year's Gala. We made good friends with the students there. Check [Video](https://www.bilibili.com/video/BV1wb411k7C6/) for more details.
 
 
 <!-- Slides can be added in a few ways:
