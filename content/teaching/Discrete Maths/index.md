@@ -1,5 +1,5 @@
 ---
-title: **Discrete Maths** *Teaching Assistant*
+title: Discrete Math Teaching Assistant
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -22,7 +22,7 @@ date: '2019'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2024-01-01'
 
 authors: []
 tags: []
