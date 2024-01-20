@@ -1,5 +1,5 @@
 ---
-title: Intro to Engineering
+title: 7th Grade Geography
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -7,12 +7,12 @@ event_url: https://example.org
 location: 
 address:
   street: 
-  city: Shanghai
-  region: Shanghai
-  postcode: '200240'
+  city: 
+  region: Yunnan Province
+  postcode: ''
   country: China
 
-summary: Teaching Assistant for 2018 Fall and 2019 Fall
+summary: Volunteer Geography Teacher for Sanhe Junior High School in 2018 Winter
 abstract: ''
 
 # Talk start and end times.

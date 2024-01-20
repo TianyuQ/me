@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: **Discrete Maths** *Teaching Assistant*
+=======
+title: Discrete Maths
+>>>>>>> e052872ca61addbed7384c35b4080bb99613bcaa
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -8,21 +12,21 @@ location:
 address:
   street: 
   city: Shanghai
-  region: 
-  postcode: '94305'
+  region: Shanghai
+  postcode: '200240'
   country: China
 
-summary: Teaching Assistant for Discrete Maths
+summary: Teaching Assistant for 2019 Summer and 2020 Summer
 abstract: 'Here is the collection of slides used in my recitation classes. During my Undergraduate in UM-SJTU Joint Institute, I worked as a teaching assistant for the course Discrete Maths lectured by Prof. Zach Mckenzie in the 2019 Summer Semester and Prof. Heidi Anderson in the 2020 Summer Semester, respectively. I was nominated as an outstanding teaching assistant then. I really cherish the teaching time.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-08-15'
+date: '2019'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-08-15'
+publishDate: ''
 
 authors: []
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: Intro to Engineering
+title: Science and Technology Innovation
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -12,12 +12,12 @@ address:
   postcode: '200240'
   country: China
 
-summary: Teaching Assistant for 2018 Fall and 2019 Fall
+summary: Teaching Assistant for 2021 Spring
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018'
+date: '2021'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
