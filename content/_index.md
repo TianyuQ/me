@@ -189,21 +189,22 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
-  ### Publications
+  ### Featured Publications
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  ### All Publications
   - block: collection
     content:
-      title: Recent Publications
+      title: All Publications
       text: |-
         {{% callout note %}}
         Discover relevant contents by [filtering publications](./publication/).
@@ -231,7 +232,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teachings
+      title: All Teaching Experiences
       filters:
         folders:
           - teaching

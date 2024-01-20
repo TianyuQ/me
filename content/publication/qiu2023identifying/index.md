@@ -25,8 +25,8 @@ publishDate: '2023-09-24'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv
-publication_short: ArXiv
+publication: Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2024
+publication_short: Submitted to ICRA2024
 
 abstract: Robots and autonomous vehicles must rely on sensor observations, e.g., from lidars and cameras, to comprehend their environment and provide safe, efficient services. In multi-agent scenarios, they must additionally account for other agents' intrinsic motivations, which ultimately determine the observed and future behaviors. Dynamic game theory provides a theoretical framework for modeling the behavior of agents with different objectives who interact with each other over time. Previous works employing dynamic game theory often overlook occluded agents, which can lead to risky navigation decisions. To tackle this issue, this paper presents an inverse dynamic game technique which optimizes the game model itself to infer unobserved, occluded agents' behavior that best explains the observations of visible agents. Our framework concurrently predicts agents' future behavior based on the reconstructed game model. Furthermore, we introduce and apply a novel receding horizon planning pipeline in several simulated scenarios. Results demonstrate that our approach offers 1) robust estimation of agents' objectives and 2) precise trajectory predictions for both visible and occluded agents from observations of only visible agents. Experimental findings also indicate that our planning pipeline leads to safer navigation decisions compared to existing baseline methods.
 
@@ -36,7 +36,7 @@ abstract: Robots and autonomous vehicles must rely on sensor observations, e.g.,
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
