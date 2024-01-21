@@ -1,7 +1,7 @@
 ---
-title: Ph.D. Admission
+title: I'm glad to annouce that I'm joining University of Texas at Austin as an Aerospace Engineering Ph.D. student in 2023 Fall. See you in Austin, TX!
 date: '2023-02-12'
-summary: I'm glad to annouce that I'm joining University of Texas at Austin as an Aerospace Engineering Ph.D. student in 2023 Fall. See you in Austin, TX!
+summary: Ph.D. Admission
 ---
 
 I'm glad to announce that I will join UT Austin as a Ph.D. student in 2023 Fall. I'm going to work as a research assistant in [CLeAR Lab](https://clearoboticslab.github.io/), under supervison of Prof. [David Fridovich-Keil](https://dfridovi.github.io/). My reseach focus includes reinforcement learning, game theory, social navigation and SLAM.

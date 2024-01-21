@@ -29,4 +29,4 @@ url_video: 'https://www.youtube.com/watch?v=YbupW0CFuYs'
 # slides: example
 ---
 
-Test
+This is our Capstone Design Project in 2019 Fall. We designed and built a healthcare telepresence robot for the elderly, which enables remote video chat and remote control of medicine dispensation.

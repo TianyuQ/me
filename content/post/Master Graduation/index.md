@@ -1,7 +1,7 @@
 ---
-title: Master Graduation
+title: I'm glad to announce that I've graduated with Master of Engineering degree in Electronic Information from Shanghai Jiao Tong University! Thank you all for the help in my seven years' journey!
 date: '2023-03-15'
-summary: I'm glad to announce that I've graduated with Master of Engineering degree in Electronic Information from Shanghai Jiao Tong University! Thank you all for the help in my seven years' journey!
+summary: Master Graduation
 ---
 
 I'm glad to annouce that I've successfully defend my Master's Thesis in February 2023 and graduated with Master of Engineering in Electronic Information from Shanghai Jiao Tong University in March 2023. Thank you all for the seven years' journey!
