@@ -191,12 +191,12 @@ sections:
   #     columns: '1'
   ### Projects
   - block: collection
-    id: featured
+    id: project
     content:
       title: Projects
       filters:
         folders:
-          - projects
+          - project
         featured_only: false
     design:
       columns: '2'
@@ -242,7 +242,6 @@ sections:
       view: card
   ### All Teaching
   - block: collection
-    id: teaching
     content:
       title: All Teaching Experiences
       filters:
