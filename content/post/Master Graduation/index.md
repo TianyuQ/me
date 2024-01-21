@@ -4,7 +4,7 @@ date: '2023-03-15'
 summary: ''
 ---
 
-I'm glad to annouce that I've successfully defend my Master's Thesis in February 2023 and I've graduated with Master of Engineering in Electronic Information from Shanghai Jiao Tong University in March 2023. Thank you all for the seven years' journey!
+I'm glad to annouce that I've successfully defend my Master's Thesis in February 2023 and graduated with Master of Engineering in Electronic Information from Shanghai Jiao Tong University in March 2023. Thank you all for the seven years' journey!
 
 <!-- ```python
 from IPython.core.display import Image
