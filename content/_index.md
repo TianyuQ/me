@@ -189,6 +189,18 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
+  ### Projects
+  - block: collection
+    id: featured
+    content:
+      title: Projects
+      filters:
+        folders:
+          - projects
+        featured_only: false
+    design:
+      columns: '2'
+      view: card
   ### Featured Publications
   - block: collection
     id: featured
