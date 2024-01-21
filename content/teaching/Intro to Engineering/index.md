@@ -68,25 +68,23 @@ I worked as a teaching assistant for VG100 Intro to Engineering lectured by Prof
 
 - **Deployable Bridge Project**:
 
-[Project Description](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100_Project1_MovableBridges.pdf)
+  - [Project Description](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100_Project1_MovableBridges.pdf)
 
-Following pages are the selected group projects:
-
-[Team7 vg100 UMJI](https://www.instructables.com/Deployable-Bridge-VG100-UM-SJTU-Joint-Institute/), [ZQ Rong](https://www.instructables.com/Deployable-Wooden-Bridge-From-VG100-Introduction-t/), [Legineerss](https://www.instructables.com/Deployable-Bridge-2/), [Meta XIII](https://www.instructables.com/Movable-Bridge-8/), [the alligators](https://www.instructables.com/Movable-Bridge-14/), [Trinity](https://www.instructables.com/Movable-Wooden-Bridge-1/), [SA so cool](https://www.instructables.com/SAMovable-Bridge/), [L^4](https://www.instructables.com/Movable-Bridge-2/).
+  - Selected Projects: [Team7 vg100 UMJI](https://www.instructables.com/Deployable-Bridge-VG100-UM-SJTU-Joint-Institute/), [ZQ Rong](https://www.instructables.com/Deployable-Wooden-Bridge-From-VG100-Introduction-t/), [Legineerss](https://www.instructables.com/Deployable-Bridge-2/), [Meta XIII](https://www.instructables.com/Movable-Bridge-8/), [the alligators](https://www.instructables.com/Movable-Bridge-14/), [Trinity](https://www.instructables.com/Movable-Wooden-Bridge-1/), [SA so cool](https://www.instructables.com/SAMovable-Bridge/), [L^4](https://www.instructables.com/Movable-Bridge-2/).
 
 - **2018 Lab Slides**:
 
-[Lab 1](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/2018FALL-VG100-LABSlide.pdf)
+  - [Lab 1](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/2018FALL-VG100-LABSlide.pdf)
 
-[Lab 2](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/2018FALL-VG100-LABSlide2.pdf)
+  - [Lab 2](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/2018FALL-VG100-LABSlide2.pdf)
 
 - **2019 Fall**:
 
-[Lab 1](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab1.pdf)
+  - [Lab 1](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab1.pdf)
 
-[Lab 2](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab2.pdf)
+  - [Lab 2](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab2.pdf)
 
-[Lab 3](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab3.pdf)
+  - [Lab 3](https://github.com/TianyuQ/Intro-to-Engineering-resources-UMJI-SJTU/blob/main/VG100%202019FA%20Lab3.pdf)
 
 <!-- Slides can be added in a few ways:
 
