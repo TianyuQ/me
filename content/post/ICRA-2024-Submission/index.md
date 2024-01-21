@@ -1,7 +1,7 @@
 ---
-title: We submitted paper “Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations” to ICRA 2024.
+title: ICRA 2024 Submission
 date: '2023-09-14'
-summary: ''
+summary: We submitted paper “Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations” to ICRA 2024.
 ---
 
 We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations" to ICRA 2024. Check [Link](https://tianyuq.github.io/me/publication/qiu2023identifying/) for more details.
