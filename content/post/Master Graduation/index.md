@@ -1,5 +1,5 @@
 ---
-title: We submitted paper “Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations” to ICRA 2024.
+title: I graduate with Master of Engineering in Electronic Information from Shanghai Jiao Tong University.
 date: '2023-03-15'
 summary: ''
 ---
