@@ -1,5 +1,5 @@
 ---
-title: Discrete Math Teaching Assistant
+title: Discrete Math
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: Teaching Assistant for 2019 Summer and 2020 Summer
-abstract: 'Here is the collection of slides used in my recitation classes. During my Undergraduate in UM-SJTU Joint Institute, I worked as a teaching assistant for the course Discrete Maths lectured by Prof. Zach Mckenzie in the 2019 Summer Semester and Prof. Heidi Anderson in the 2020 Summer Semester, respectively. I was nominated as an outstanding teaching assistant then. I really cherish the teaching time.'
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
