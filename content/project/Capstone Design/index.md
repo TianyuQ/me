@@ -1,6 +1,6 @@
 ---
-title: Major Capstone Design
-summary: Healthcare Telepresence Robot for the Elderly
+title: Healthcare Telepresence Robot for the Elderly
+summary: Major Capstone Design
 tags: []
 date: '2019-12-25'
 
