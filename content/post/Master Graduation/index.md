@@ -1,10 +1,10 @@
 ---
 title: We submitted paper “Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations” to ICRA 2024.
-date: '2023-09-14'
+date: '2023-03-15'
 summary: ''
 ---
 
-We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations" to ICRA 2024. Check [Link](https://tianyuq.github.io/me/publication/qiu2023identifying/) for more details.
+I'm glad to annouce that I've successfully defend my Master's Thesis in February 2023 and I've graduated with Master of Engineering in Electronic Information from Shanghai Jiao Tong University in March 2023. Thank you all for the seven years' journey!
 
 <!-- ```python
 from IPython.core.display import Image
