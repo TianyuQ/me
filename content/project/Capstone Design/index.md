@@ -18,8 +18,8 @@ image:
 #     url: https://twitter.com/georgecushen
 # url_code: ''
 url_pdf: 'uploads/VE450 Final Report.pdf'
-url_slides: 'uploads/VE450 Final Defense.pptx'
-# url_video: 'uploads/VE450_video.mp4'
+url_slides: 'uploads/VE450 Final Defense.pdf'
+url_video: 'https://www.youtube.com/watch?v=YbupW0CFuYs'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
