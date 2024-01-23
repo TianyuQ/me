@@ -45,7 +45,7 @@ education:
       year: 2020
     - course: High School Diploma
       institution: Shanghai High School
-      year: 2020
+      year: 2016
 
 # Interests to show in About widget
 interests:
