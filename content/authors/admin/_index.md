@@ -43,6 +43,9 @@ education:
     - course: BEng in Electrical & Computer Engineering
       institution: Shanghai Jiao Tong University
       year: 2020
+    - course: High School Diploma
+      institution: Shanghai High School
+      year: 2020
 
 # Interests to show in About widget
 interests:
