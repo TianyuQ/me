@@ -35,16 +35,16 @@ bio: ''
 education:
   courses:
     - course: PhD in Aerospace Engineering
-      institution: The University of Texas at Austin
+      institution: The University of Texas at Austin, Austin, TX, USA
       year: 2028
     - course: MEng in Electronic Information
-      institution: Shanghai Jiao Tong University
+      institution: Shanghai Jiao Tong University, Shanghai, China
       year: 2023
     - course: BEng in Electrical & Computer Engineering
-      institution: Shanghai Jiao Tong University
+      institution: Shanghai Jiao Tong University, Shanghai, China
       year: 2020
     - course: High School Diploma
-      institution: Shanghai High School
+      institution: Shanghai High School, Shanghai, China
       year: 2016
 
 # Interests to show in About widget
