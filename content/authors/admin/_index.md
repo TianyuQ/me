@@ -34,13 +34,13 @@ bio: ''
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Aerospace Engineering
+    - course: Ph.D. in Aerospace Engineering
       institution: The University of Texas at Austin, Austin, TX, USA
       year: 2028
-    - course: MEng in Electronic Information
+    - course: M.Eng. in Electronic Information
       institution: Shanghai Jiao Tong University, Shanghai, China
       year: 2023
-    - course: BEng in Electrical & Computer Engineering
+    - course: B.Eng. in Electrical & Computer Engineering
       institution: Shanghai Jiao Tong University, Shanghai, China
       year: 2020
     - course: High School Diploma
@@ -128,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Tianyu Qiu is currently a Ph.D. student in Aerospace Engineering in the University of Texas at Austin. He is also a research assitant in the Control and Learning for Autonomous Robotics (CLeAR Lab), advised by Prof. David Fridovich-Keil. Prior to UT Austin, Tianyu received his MEng and BEng degree from Shanghai Jiao Tong University in 2023 and 2020, respectively. Tianyu's research interests include reinforcement learning, game theory, social navigation and SLAM.
+Tianyu Qiu is currently a Ph.D. student in Aerospace Engineering in the University of Texas at Austin. He is also a research assitant in the Control and Learning for Autonomous Robotics (CLeAR Lab), advised by Prof. [David Fridovich-Keil](https://clearoboticslab.github.io/people/david_fridovich-keil/index.html). Prior to UT Austin, Tianyu received his M.Eng. and B.Eng. degree from Shanghai Jiao Tong University in 2023 and 2020, respectively. Tianyu's research interests include reinforcement learning, game theory, social navigation and SLAM.
 {style="text-align: justify;"}
