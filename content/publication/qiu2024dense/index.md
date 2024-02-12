@@ -1,5 +1,5 @@
 ---
-title: 'Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations'
+title: 'Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

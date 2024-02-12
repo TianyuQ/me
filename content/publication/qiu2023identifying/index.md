@@ -36,7 +36,7 @@ summary: This paper presents an inverse dynamic game technique which optimizes t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
