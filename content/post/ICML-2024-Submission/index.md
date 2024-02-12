@@ -1,5 +1,5 @@
 ---
-title: Dense Dynamics-Aware Reward Synthesis Integrating Prior Experience with Demonstrations.
+title: 'Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations'
 date: '2024-02-01'
 summary: ICML 24 Submission
 ---
