@@ -1,10 +1,10 @@
 ---
-title: We submitted paper “Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations” to ICRA 2024.
-date: '2023-09-14'
-summary: ICRA 24 Submission
+title: Dense Dynamics-Aware Reward Synthesis Integrating Prior Experience with Demonstrations.
+date: '2024-02-01'
+summary: ICML 24 Submission
 ---
 
-We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games with Noise-Corrupted Observations" to ICRA 2024. Check [Link](https://tianyuq.github.io/me/publication/qiu2023identifying/) for more details.
+We submitted paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" to ICML 2024.
 
 <!-- ```python
 from IPython.core.display import Image
