@@ -1,6 +1,6 @@
 ---
 title: 'Inferring Occluded Agent Behavior in Dynamic Games\\ from Noise Corrupted Observations'
-summary: Submitted to RA-L'
+summary: Submitted to RA-L
 tags: []
 date: '2024-07-13'
 
