@@ -56,7 +56,7 @@ url_pdf: 'https://arxiv.org/pdf/2303.09744.pdf'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Occlusion-aware contingency game planner in an intersection scenario. The green vehicle can only see the red vehicle in the adjacent lane and is uncertain about the existence of occluded vehicles in the horizontal lanes. The green vehicles makes two assumptions: either 1) occluded vehicles exist. It can then use our proposed approach to estimate their trajectories by observing the red vehicle’s deceleration and plans the dark green trajectory; or 2) there are no occluded vehicles. It then only interacts with the red vehicle and plans the light green trajectory. Our contingency planning approach blends these two alternative strategies, while accounting for the fact that any occluded agents will be visible in the near future as the green vehicle approaches the intersection.'
-  focal_point: ''
+  focal_point: 'Smart'
   preview_only: false
 
 # Associated Projects (optional).
