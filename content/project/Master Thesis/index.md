@@ -1,5 +1,5 @@
 ---
-title: Pedestrian Trajectory Prediction and Mobile Robot Navigation Based on Dynamic Games
+title: Pedestrian Trajectory Prediction and Mobile Robot Navigation Based on Inverse Dynamic Games
 summary: Master Thesis
 tags: []
 date: '2023-03-15'

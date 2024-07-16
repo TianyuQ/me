@@ -1,10 +1,10 @@
 ---
-title: 'We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" to RA-L.'
-date: '2024-07-13'
-summary: RA-L Submission
+title: 'We submitted paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" to ICML 2024.'
+date: '2024-02-01'
+summary: ICML 24 Submission
 ---
 
-We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" to RA-L.
+We submitted paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" to ICML 2024.
 
 <!-- ```python
 from IPython.core.display import Image
