@@ -1,5 +1,5 @@
 ---
-title: I'm glad to announce that I've graduated with Master of Engineering degree in Electronic Information from Shanghai Jiao Tong University! Thank you all for the help in my seven years' journey!
+title: "[2023-03] I'm glad to announce that I've graduated with Master of Engineering degree in Electronic Information from Shanghai Jiao Tong University! Thank you all for the help in my seven years' journey!"
 date: '2023-03-15'
 summary: Master Graduation
 ---

@@ -1,10 +1,10 @@
 ---
-title: 'Our paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" has been accpeted to Robotics & Automation Letters!'
+title: '[2024-10] Our paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" has been accpeted to Robotics & Automation Letters!'
 date: '2024-10-22'
 summary: RA-L Acceptance
 ---
 
-Our paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" has been accpeted to Robotics & Automation Letters!
+Our paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" has been accpeted to Robotics & Automation Letters!
 
 <!-- ```python
 from IPython.core.display import Image
