@@ -1,10 +1,10 @@
 ---
-title: 'We submitted paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" to ICML 2024.'
-date: '2024-02-01'
-summary: ICML24 Submission
+title: 'Our paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" has been accpeted to Robotics & Automation Letters!'
+date: '2024-10-22'
+summary: RA-L Acceptance
 ---
 
-We submitted paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" to ICML 2024.
+Our paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" has been accpeted to Robotics & Automation Letters!
 
 <!-- ```python
 from IPython.core.display import Image

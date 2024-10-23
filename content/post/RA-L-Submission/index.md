@@ -1,10 +1,10 @@
 ---
 title: 'We submitted paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" to ICML 2024.'
-date: '2024-02-01'
-summary: ICML 24 Submission
+date: '2024-07-21'
+summary: RA-L Submission
 ---
 
-We submitted paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" to ICML 2024.
+We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" to RA-L.
 
 <!-- ```python
 from IPython.core.display import Image
