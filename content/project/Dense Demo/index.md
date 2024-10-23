@@ -1,6 +1,6 @@
 ---
 title: 'Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations'
-summary: ICML 24'
+summary: Submitted to ICML 24'
 tags: []
 date: '2024-02-01'
 
