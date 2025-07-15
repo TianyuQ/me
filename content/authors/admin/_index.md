@@ -49,10 +49,9 @@ education:
 
 # Interests to show in About widget
 interests:
-  - Reinforcement Learning
+  - Multi-Robot Planning
   - Game Theory
-  - Social Navigation
-  - SLAM
+  - Robot Navigation
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
