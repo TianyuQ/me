@@ -1,5 +1,5 @@
 ---
-title: '[2024-10] Our paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" has been accpeted to L4DC 2025!'
+title: '[2025-02] Our paper "Dense Dynamics-Aware Reward Synthesis: Integrating Prior Experience with Demonstrations" has been accpeted to L4DC 2025!'
 date: '2025-02-28'
 summary: L4DC Acceptance
 ---
