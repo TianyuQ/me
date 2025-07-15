@@ -1,5 +1,5 @@
 ---
-title: '[2024-07] We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" to RA-L.'
+title: '[2024-07] We submitted paper "Inferring Occluded Agent Behavior in Dynamic Games from Noise Corrupted Observations" to ICML 2024.'
 date: '2024-07-21'
 summary: RA-L Submission
 ---
